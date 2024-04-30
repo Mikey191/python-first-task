@@ -108,9 +108,9 @@ print(sum)
 difference = x - y  # Вычитание
 print(sum, difference, sep="_")
 product = x * y  # Умножение
-print(product, end="/n")
+print(product, end="\n")
 quotient = x / y  # Деление
-print(quotient, end="/n")
+print(quotient, end="\n")
 ```
 Функция print() является полезным инструментом для **отладки**, **вывода результатов** и **взаимодействия с пользователем** в Python.
 
